@@ -9,7 +9,7 @@ Best Regards. Hisoka
 Script WhatsApp Bot Multi Device
 
 ## NOTE
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
+Pakailah wawebjs, baileys rawan banned juga (https://github.com/DikaArdnt/Hisoka-Morou/tree/wawebjs)
 
 <p align="center">
 	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
@@ -19,10 +19,10 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
+* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck)
 * WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
 * WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
+* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/DikaArdnt/Hisoka-Morou/tree/wawebjs)
 
 ## HEROKU BUILDPACK
 ```bash
